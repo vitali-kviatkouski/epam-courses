@@ -4,7 +4,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-public class TestLifecycleMethods {
+public class LifecycleMethodsTest {
 	@Before
 	public void before() {
 		System.out.println("Перед выполнением тестового метода");

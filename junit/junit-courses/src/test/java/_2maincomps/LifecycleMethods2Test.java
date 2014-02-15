@@ -2,7 +2,7 @@ package _2maincomps;
 
 import org.junit.*;
 
-public class TestLifecycleMethods2 {
+public class LifecycleMethods2Test {
 
 	@BeforeClass
 	public static void beforeClass() {
