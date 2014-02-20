@@ -1,11 +1,11 @@
-package _4assertions.assertions.questions;
+package _4assertions.assertions.questions.q2;
 
 import static org.junit.Assert.*;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-public class Question2 {
+public class Question {
 
 	@Test
 	public void testName() {
